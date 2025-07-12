@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\SANJUAN\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\sanjuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:sanjuan.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:controllers\\cursoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:models\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:controllers\\docentescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:models\\docente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|c:\\users\\user\\source\\repos\\sanjuan\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8DEC2714-49D9-4E1C-92F6-9A5B1E643188}|SANJUAN.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-12T00:10:44.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T22:58:06.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:13:26.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Docente.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Models\\Docente.cs",
+              "RelativeDocumentMoniker": "Models\\Docente.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Models\\Docente.cs",
+              "RelativeToolTip": "Models\\Docente.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:12:04.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Models\\Curso.cs",
+              "RelativeDocumentMoniker": "Models\\Curso.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Models\\Curso.cs",
+              "RelativeToolTip": "Models\\Curso.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAcwBIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:11:25.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SANJUAN.csproj",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\SANJUAN.csproj",
+              "RelativeDocumentMoniker": "SANJUAN.csproj",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\SANJUAN.csproj",
+              "RelativeToolTip": "SANJUAN.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T22:09:53.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DocentesController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Controllers\\DocentesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DocentesController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Controllers\\DocentesController.cs",
+              "RelativeToolTip": "Controllers\\DocentesController.cs",
+              "ViewState": "AQIAAEUAAAAAAAAAAAAYwE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:07:02.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CursosController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Controllers\\CursosController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CursosController.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Controllers\\CursosController.cs",
+              "RelativeToolTip": "Controllers\\CursosController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T22:06:07.101Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T21:56:29.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\SANJUAN\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\SANJUAN\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-03T21:52:22.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
